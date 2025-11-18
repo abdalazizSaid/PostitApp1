@@ -1,5 +1,5 @@
 const Departments = () => {
-  return <div>Departments -IT -Shinas</div>;
+  return <div>Departments -IT -Sohar</div>;
 };
 
 export default Departments;
